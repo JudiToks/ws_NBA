@@ -1,0 +1,37 @@
+Joueur
+	-id
+	-Nom,
+	-Prenom
+
+equipe
+	-id
+	-Nom
+
+equipe_joueur
+	-id
+	-idEquipe
+	-idjoueur
+	
+match
+	-id
+	-equipeA
+	-equipeB
+	-dateheure
+
+composition
+	-id
+	-idMacth
+	-joueur
+	
+statistique
+	-id
+	-idMatch
+	-idJoueur
+	-3points
+	-2points
+	-1points
+	-rebondsD
+	-rebondsO
+
+uj2rTu74LaaEtq3j
+	
